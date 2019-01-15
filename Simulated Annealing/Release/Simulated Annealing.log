@@ -1,0 +1,9 @@
+﻿  Simulated Annealing.cpp
+c:\users\alex\music\projects\simulated annealing\simulated annealing\simulated annealing.cpp(113): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alex\music\projects\simulated annealing\simulated annealing\simulated annealing.cpp(136): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  1 of 116 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Simulated Annealing.vcxproj -> C:\Users\Alex\Music\Projects\Simulated Annealing\Release\Simulated Annealing.exe

@@ -1,0 +1,4 @@
+﻿  Simulated Annealing.cpp
+c:\users\alex\music\projects\c++\simulated annealing\simulated annealing\simulated annealing.cpp(17): warning C4091: 'typedef ': ignored on left of 'solution' when no variable is declared
+c:\users\alex\music\projects\c++\simulated annealing\simulated annealing\simulated annealing.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Simulated Annealing.vcxproj -> C:\Users\Alex\Music\Projects\C++\Simulated Annealing\Debug\Simulated Annealing.exe
